@@ -1,0 +1,6 @@
+Hello beautiful people!
+
+I run this code in Visual Studio Comunity 2022
+You'll have to download the nugget packages on you own if they are not downloaded automatically once you build, I'm not sure I uploaded this project properly but it works on my PC, (I know that's a pretty rubbish thing programmers say) 
+Have fun!
+Joaquin
