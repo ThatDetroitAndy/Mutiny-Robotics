@@ -1,0 +1,3 @@
+Hello beautiful people!
+
+This is the arduino code, youll need a roboclaw and a ESO32 to run it without any modifications. Maybe a ESP8266 also works, I haven't tested it.
