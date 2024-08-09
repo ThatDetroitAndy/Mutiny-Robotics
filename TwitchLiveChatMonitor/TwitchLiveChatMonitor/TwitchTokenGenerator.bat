@@ -1,0 +1,1 @@
+start cmd.exe /k twitch token -u -s "chat:read"
